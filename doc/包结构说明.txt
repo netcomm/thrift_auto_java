@@ -1,0 +1,3 @@
+org.apache.athrift  扩展的动态代码包
+org.apache.thrift   Thrift自身java代码
+test                实例代码

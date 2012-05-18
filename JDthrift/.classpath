@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/jars/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/jars/jdom.jar"/>
+	<classpathentry kind="lib" path="D:/jars/servlet-2_3-fcs-classfiles.zip"/>
+	<classpathentry kind="lib" path="D:/jars/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/jars/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/jars/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars/org.json.jar"/>
+	<classpathentry kind="lib" path="D:/jars/junit-4.8.jar"/>
+	<classpathentry kind="lib" path="D:/jars/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
